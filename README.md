@@ -1,6 +1,6 @@
 # Global-Store-Sales-Analysis-with-Power-BI
 
-Explanation or working of this Project: [https://drive.google.com/drive/u/1/folders/1roL5W4UvUCjdzC9KPZ8TP7mq2xHh1AuC?q=sharedwith:public%20parent:1roL5W4UvUCjdzC9KPZ8TP7mq2xHh1AuC%20type:video](https://drive.google.com/drive/u/1/folders/1roL5W4UvUCjdzC9KPZ8TP7mq2xHh1AuC?q=sharedwith:public%20parent:1roL5W4UvUCjdzC9KPZ8TP7mq2xHh1AuC%20type:video)
+Explanation or working of this Project (Video Explanatory Link): [https://drive.google.com/drive/u/1/folders/1roL5W4UvUCjdzC9KPZ8TP7mq2xHh1AuC?q=sharedwith:public%20parent:1roL5W4UvUCjdzC9KPZ8TP7mq2xHh1AuC%20type:video](https://drive.google.com/drive/u/1/folders/1roL5W4UvUCjdzC9KPZ8TP7mq2xHh1AuC?q=sharedwith:public%20parent:1roL5W4UvUCjdzC9KPZ8TP7mq2xHh1AuC%20type:video)
 
 **Overview**
 
